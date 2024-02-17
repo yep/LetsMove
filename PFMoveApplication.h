@@ -6,11 +6,11 @@
 //
 //  The contents of this file are dedicated to the public domain.
 
+#import <Foundation/Foundation.h>
+
 #ifdef __cplusplus
 extern "C" {
-#endif
-	
-#import <Foundation/Foundation.h>
+#endif	
 
 /**
  Moves the running application to ~/Applications or /Applications if the former does not exist.
